@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說尊勝大明王經
+#+DATE: 2015-08-30 20:37:03.409742
+#+PROPERTY: JUAN 0
