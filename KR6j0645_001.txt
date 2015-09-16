@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:03.210507
+#+DATE: 2015-08-30 20:37:04.191858
 #+TITLE: 佛說尊勝大明王經
 #+PROPERTY: CBETA_ID T21n1413
 #+PROPERTY: ID KR6j0645
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1413
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0645_T_000-0927a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0645_T_001-0927a> ¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1413¶
-
- 佛說尊勝大明王經¶
+No. 1413¶
+佛說尊勝大明王經¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 傳法大師臣施護奉　詔譯¶
@@ -85,8 +84,8 @@ No.1413¶
 或依空作法自然墮落。或有文字障礙不行。¶
 焰魔王界振動驚怖。¶
 
-怛儞也(二合)他(引)娑吒娑吒𠷑吒𠷑吒𠷑吒𠷑¶
-吒𠷑吒部嚕部嚕母嚕母嚕莎賀¶
+怛儞也(二合)他(引)娑吒娑吒[口*癹]吒[口*癹]吒[口*癹]吒[口*癹]¶
+吒[口*癹]吒部嚕部嚕母嚕母嚕莎賀¶
 
 若魔若魔民以惡心相向。或自在天或夜叉¶
 夜叉女等。乃至一切食血者。食肉者食脂膏¶
